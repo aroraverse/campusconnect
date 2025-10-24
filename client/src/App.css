@@ -1,0 +1,8 @@
+
+body {
+  margin: 0;
+  font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif;
+  background: linear-gradient(135deg, #e0e7ff 0%, #f0fdfa 100%);
+}
+
+/* Remove default App styles for Material UI */
