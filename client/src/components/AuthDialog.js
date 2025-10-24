@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Dialog, DialogTitle, DialogContent, TextField, DialogActions, Button, Typography, Box, Tabs, Tab } from '@mui/material';
+import { Dialog, DialogTitle, DialogContent, TextField, DialogActions, Button, Typography, Tabs, Tab } from '@mui/material';
 import { login, register } from '../authApi';
 
 export default function AuthDialog({ open, onClose, onAuth }) {
